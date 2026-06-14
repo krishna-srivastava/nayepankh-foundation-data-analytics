@@ -1,2 +1,1 @@
-# nayepankh-foundation-data-analytics
-Data analytics project for NayePankh Foundation — Excel-based analysis and an interactive Power BI dashboard covering donation trends, campaign performance, and volunteer engagement (synthetic dataset, internship assignment).
+This project analyzes synthetic donation and volunteer datasets for NayePankh Foundation, an NGO promoting kindness and community service. It includes PivotTable-based analysis in Excel and a 3-page interactive Power BI dashboard with KPIs, trend charts, and slicers for donations and volunteer engagement. Built as part of a Data Analytics Internship assignment.
